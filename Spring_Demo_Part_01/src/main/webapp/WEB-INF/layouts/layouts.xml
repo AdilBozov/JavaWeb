@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tiles-definitions PUBLIC
+		"-//Apache Software Fondation/DTD Tiles configuration 2.0//EN"
+		"http://tiles.apache.org/dtds/tiles-config_2_0.dtd">
+
+<tiles-definitions>
+	<definition name="defaultLayout" template="/WEB-INF/layouts/default.jsp">
+		<put-attribute name="content" value="" type="string"></put-attribute>
+	</definition>
+</tiles-definitions>
